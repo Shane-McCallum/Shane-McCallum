@@ -1,6 +1,6 @@
 ![Header](https://github.com/Shane-McCallum/Shane-McCallum/blob/main/Github%20header.jpg "Header")
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Shane-McCallum/Shane-McCallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
