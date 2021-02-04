@@ -1,4 +1,4 @@
-[![Header](https://github.com/Shane-McCallum/Shane-McCallum/blob/main/Github%20header.jpg "Header")]
+![Header](https://github.com/Shane-McCallum/Shane-McCallum/blob/main/Github%20header.jpg "Header")
 
 ### Hi there 👋
 
