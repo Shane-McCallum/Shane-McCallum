@@ -7,17 +7,17 @@ My name is Shane McCallum! As a Data Scientist, I have developed a solid foundat
 With my credentialed skills in data science and sociology, I am eager to use data to inform business professionals with the facts and truth that the data presents. However, as a data scientist, I recognize the need to ethically consider the humanitarian, environmental, and economical impact of data and how to best present such findings.
 
 - 🔭 I’m currently working on ...
-      ... a time series forecasting the value (USD) of gold per ounce (GLD) based on the closing value of the S&P 500 Index (SPX).
+      a time series forecasting the value (USD) of gold per ounce (GLD) based on the closing value of the S&P 500 Index (SPX).
 - 🌱 I’m currently learning ...
-      ... the art of customer segmentation!
+      the art of customer segmentation!
 - 👯 I’m looking to collaborate on ...
-      ... my Diversity v. Violence index for violent crime rates in the US!
+      my Diversity v. Violence index for violent crime rates in the US!
 - 🤔 I’m looking for help with ...
-      ... any kind of stock and fund forecasting!
-- 💬 Ask me about ...
-      ... how you can develope your communication and presentation skills!
-- 📫 How to reach me: ...
-      You can find me on [![LinkedIn][3.2]][3]      
+      any kind of stock and fund forecasting!
+- 💬 Ask me about ... 
+      how you can develope your communication and presentation skills!
+- 📫 How to reach me:
+      You can find me on [LinkedIn](https://www.linkedin.com/in/shane-mccallum/).       
 - 😄 Pronouns: "He/Him/His"
 - ⚡ Fun fact: I used to be a sheriff deputy! Quite the career change!
 
@@ -31,7 +31,4 @@ With my credentialed skills in data science and sociology, I am eager to use dat
 
 <!--
 **Shane-McCallum/Shane-McCallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[3.2]: https://www.linkedin.com/in/shane-mccallum/
-[3]: https://www.linkedin.com/in/shane-mccallum/
-Here are some ideas to get you started:
 -->
