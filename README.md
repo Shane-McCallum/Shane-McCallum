@@ -1,6 +1,6 @@
 ![Header](https://github.com/Shane-McCallum/Shane-McCallum/blob/main/Github%20header.jpg "Header")
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 My name is Shane McCallum! As a Data Scientist, I have developed a solid foundation of technical and interpersonal skills that have enabled me to succeed in all aspects of the data science field. I am confident in my ability to lead a team on a project; communicate the findings and recommendations of an analysis; or assist in the development of advanced machine learning algorithms. I thrive on tackling complex and difficult problems and employ advanced technical tools to educate, inform, and propel businesses.
 
